@@ -1,0 +1,42 @@
+header {
+	border-style: inset;
+	border-radius: 5px;	
+	background-image:url("space.jpg");
+}
+
+p{
+	font-family: cursive;
+}
+
+a{
+	color:white;
+	font-family: Blippo, fantasy;
+	font-size: 30px;
+}
+
+body {
+	 background-image: url("sun.jpg");
+	 color:white;
+}
+ h1{
+	font-family: Impact, fantasy;
+	font-size: 48px;
+	text-align: center;
+}
+
+ h2{
+	font-family: Impact, fantasy;
+	font-weight: 200;
+	text-align: center;
+}
+
+h3{
+	font-family: Impact, fantasy;
+	font-weight: 200
+}
+
+h4{
+	font-family: Impact, fantasy;
+	font-weight: 200
+}
+
